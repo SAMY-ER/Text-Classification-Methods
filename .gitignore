@@ -3,4 +3,6 @@
 data/Consumer_Complaints.csv
 models/*
 !models/word_vectors.kv
+!models/nn_pretrained_wv.h5
+!models/bert_weights.h5
 notebooks/.ipynb_checkpoints
