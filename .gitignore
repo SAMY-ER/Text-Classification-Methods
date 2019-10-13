@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.DS_Store
+data/Consumer_Complaints.csv
+data/Consumer_Complaints_Sample.csv
+models/*
+!models/word_vectors.kv
+notebooks/.ipynb_checkpoints
